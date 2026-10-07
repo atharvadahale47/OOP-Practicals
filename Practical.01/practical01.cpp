@@ -49,8 +49,9 @@ int main()
 
 
 
-Program Output
-text
+Program Output=
+
+
 ===== Digital Book Inventory System =====
 Enter Book Title: The C++ Programming Language
 Enter Author Name: Bjarne Stroustrup
